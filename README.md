@@ -1,0 +1,1 @@
+This repository contains a VBScript example demonstrating an uncommon error related to If statements. The original code lacks proper handling for all possible comparison outcomes. The solution demonstrates how to correctly use If, ElseIf, and Else blocks to handle all scenarios.
